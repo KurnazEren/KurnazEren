@@ -17,7 +17,7 @@ discovering behavioral patterns, validating models through robust experimentatio
 I stay up to date with advances in NLP, generative AI, and reinforcement learning.
 
 **Explore my work:**  
-[GitHub](https://github.com/KurnazEren)  
+[Linkedin](https://www.linkedin.com/in/eren-kurnaz/)  
 [Kaggle](https://www.kaggle.com/kurnazeren)
 
 Let’s connect if you’re passionate about data, people, or the powerful space where they meet
