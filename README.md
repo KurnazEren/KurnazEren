@@ -20,7 +20,7 @@ I stay up to date with advances in NLP, generative AI, and reinforcement learnin
 [GitHub](https://github.com/KurnazEren)  
 [Kaggle](https://www.kaggle.com/kurnazeren)
 
-Let’s connect if you’re passionate about data, people, or the powerful space where they meet.
+Let’s connect if you’re passionate about data, people, or the powerful space where they meet
 .<br><br>🔭 I’m currently working on DataScience,<br>⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, TensorFlow, PayTorch, SciPy)<br>👀 I’m interested in Machine Learning and AI<br>📫 How to reach me erenkurnaz@outlook.com<br>💬 Ask me about DataScience<br>👯 Fun fact I'm interested in Video Games
 
 
