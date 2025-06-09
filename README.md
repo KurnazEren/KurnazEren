@@ -1,9 +1,17 @@
 # 💫 About Me:
-I am highly motivated in the fields of Data Science, Machine Learning, and Artificial Intelligence. Starting
-with an interest in studying human behaviour, I have progressively developed my skills for data science
-and machine learning. I thrive in both independent, systematic work and collaborative team
-environments. With high adaptability and a positive, complaint-free attitude, I embrace new ideas and
-enjoy refining and renewing outdated ones.<br><br>🔭 I’m currently working on DataScience,<br>⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, TensorFlow, PayTorch, SciPy)<br>👀 I’m interested in Machine Learning and AI<br>📫 How to reach me erenkurnaz@outlook.com<br>💬 Ask me about DataScience<br>👯 Fun fact I'm interested in Video Games
+I’m a Data Scientist with a unique background in Clinical Psychology and hands-on experience in Machine Learning, Deep Learning, and Computer Vision. I build end-to-end solutions that turn complex data into clear, actionable insights.
+
+Before transitioning into tech, I worked in Clinical Psychology—developing a deep understanding of human behavior, analytical rigor, and a research-driven mindset. Today, I combine that perspective with cutting-edge technology to:
+
+🔹 Design and deploy scalable ML pipelines (Python, TensorFlow/PyTorch, scikit-learn)
+🔹 Build and optimize computer vision models (image classification, object detection, segmentation)
+🔹 Translate business goals into data-informed strategies in both solo and agile team settings
+
+What excites me most is working at the intersection of AI and human behavior: discovering behavioral patterns, validating models through robust experimentation, and ensuring ethical, human-centered AI.
+
+🧠 Forever curious, I stay up to date with advances in NLP, generative AI, and reinforcement learning.
+
+Let’s connect if you’re passionate about data, people, or the powerful space where they meet..<br><br>🔭 I’m currently working on DataScience,<br>⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, TensorFlow, PayTorch, SciPy)<br>👀 I’m interested in Machine Learning and AI<br>📫 How to reach me erenkurnaz@outlook.com<br>💬 Ask me about DataScience<br>👯 Fun fact I'm interested in Video Games
 
 
 ## 🌐 Socials:
